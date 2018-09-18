@@ -1,0 +1,3 @@
+<resources>
+    <style name="PokemonActivityStyle" parent="@style/AppTheme" />
+</resources>
